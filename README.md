@@ -1,7 +1,8 @@
+
 <div align="center">
 
 <h1>🎓 AI-Driven Dynamic Curriculum Recommendation Engine</h1>
-
+<h1>LIVE : https://curriculum-frontend-6cuw.onrender.com</h1>
 <p>
   <img src="https://img.shields.io/badge/Domain-Generative%20AI%20%26%20AI%20Agents-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-Academic%20Mini%20Project-blue?style=for-the-badge" />
